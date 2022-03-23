@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-21T21:49:39 IST" name="Loan" finished-at="2021-12-21T21:49:40 IST" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2021-12-21T21:49:39 IST" name="HomeLoan" finished-at="2021-12-21T21:49:40 IST" duration-ms="97">
+      <class name="com.java.testng.basics.copyForExecution.PersonalLoan">
+        <test-method signature="applyViaBroker()[pri:0, instance:com.java.testng.basics.copyForExecution.PersonalLoan@7c469c48]" started-at="2021-12-21T21:49:40 IST" name="applyViaBroker" finished-at="2021-12-21T21:49:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaBroker -->
+        <test-method signature="applyViaMobileApp()[pri:0, instance:com.java.testng.basics.copyForExecution.PersonalLoan@7c469c48]" started-at="2021-12-21T21:49:40 IST" name="applyViaMobileApp" finished-at="2021-12-21T21:49:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaMobileApp -->
+        <test-method signature="applyViaWeb()[pri:0, instance:com.java.testng.basics.copyForExecution.PersonalLoan@7c469c48]" started-at="2021-12-21T21:49:40 IST" name="applyViaWeb" finished-at="2021-12-21T21:49:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaWeb -->
+      </class> <!-- com.java.testng.basics.copyForExecution.PersonalLoan -->
+      <class name="com.java.testng.basics.copyForExecution.HomeLoan">
+        <test-method signature="applyViaBroker()[pri:0, instance:com.java.testng.basics.copyForExecution.HomeLoan@5dd6264]" started-at="2021-12-21T21:49:40 IST" name="applyViaBroker" finished-at="2021-12-21T21:49:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaBroker -->
+        <test-method signature="applyViaMobileApp()[pri:0, instance:com.java.testng.basics.copyForExecution.HomeLoan@5dd6264]" started-at="2021-12-21T21:49:40 IST" name="applyViaMobileApp" finished-at="2021-12-21T21:49:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaMobileApp -->
+        <test-method signature="applyViaWeb()[pri:0, instance:com.java.testng.basics.copyForExecution.HomeLoan@5dd6264]" started-at="2021-12-21T21:49:40 IST" name="applyViaWeb" finished-at="2021-12-21T21:49:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaWeb -->
+      </class> <!-- com.java.testng.basics.copyForExecution.HomeLoan -->
+      <class name="com.java.testng.basics.copyForExecution.RegExp">
+        <test-method signature="loginUsingLaptop()[pri:0, instance:com.java.testng.basics.copyForExecution.RegExp@12e61fe6]" started-at="2021-12-21T21:49:40 IST" name="loginUsingLaptop" finished-at="2021-12-21T21:49:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUsingLaptop -->
+        <test-method signature="loginUsingMobile()[pri:0, instance:com.java.testng.basics.copyForExecution.RegExp@12e61fe6]" started-at="2021-12-21T21:49:40 IST" name="loginUsingMobile" finished-at="2021-12-21T21:49:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUsingMobile -->
+        <test-method signature="viadesktop()[pri:0, instance:com.java.testng.basics.copyForExecution.RegExp@12e61fe6]" started-at="2021-12-21T21:49:40 IST" name="viadesktop" finished-at="2021-12-21T21:49:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viadesktop -->
+      </class> <!-- com.java.testng.basics.copyForExecution.RegExp -->
+      <class name="com.java.testng.basics.copyForExecution.CarLoan">
+        <test-method signature="applyViaBroker()[pri:0, instance:com.java.testng.basics.copyForExecution.CarLoan@63a65a25]" started-at="2021-12-21T21:49:40 IST" name="applyViaBroker" finished-at="2021-12-21T21:49:40 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaBroker -->
+        <test-method signature="applyViaMobileApp()[pri:0, instance:com.java.testng.basics.copyForExecution.CarLoan@63a65a25]" started-at="2021-12-21T21:49:40 IST" name="applyViaMobileApp" finished-at="2021-12-21T21:49:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaMobileApp -->
+        <test-method signature="applyViaWeb()[pri:0, instance:com.java.testng.basics.copyForExecution.CarLoan@63a65a25]" started-at="2021-12-21T21:49:40 IST" name="applyViaWeb" finished-at="2021-12-21T21:49:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyViaWeb -->
+      </class> <!-- com.java.testng.basics.copyForExecution.CarLoan -->
+    </test> <!-- HomeLoan -->
+  </suite> <!-- Loan -->
+</testng-results>
